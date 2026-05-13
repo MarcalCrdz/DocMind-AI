@@ -432,41 +432,6 @@ Isso deixa o projeto mais próximo de uma aplicação real.
 
 ---
 
-## Demonstração
-
-Crie uma pasta chamada `assets/` e adicione prints do projeto.
-
-Sugestão de imagens:
-
-```text
-assets/swagger.png
-assets/upload.png
-assets/ask.png
-assets/docker.png
-```
-
-Depois, adicione as imagens no README:
-
-```markdown
-### Swagger
-
-![Swagger](assets/swagger.png)
-
-### Upload de PDF
-
-![Upload](assets/upload.png)
-
-### Pergunta com RAG
-
-![Ask](assets/ask.png)
-
-### Docker
-
-![Docker](assets/docker.png)
-```
-
----
-
 ## Observação sobre os dados
 
 Os arquivos PDF enviados para teste não são versionados no GitHub.

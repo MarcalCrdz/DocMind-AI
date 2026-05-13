@@ -1,10 +1,4 @@
-Sim, entendi. O problema foi que, dentro do README, existem blocos com ``` e isso “quebra” a caixinha principal.
 
-Agora vou colocar **tudo dentro de um único bloco**, usando uma caixinha maior com ````markdown.
-
-Copia **tudo** abaixo:
-
-````markdown
 # DocMind AI
 
 DocMind AI é uma API de Inteligência Artificial baseada em RAG (Retrieval-Augmented Generation), criada para responder perguntas sobre documentos PDF enviados pelo usuário.
